@@ -13,6 +13,7 @@
 		F2A26969237B988F009E8DE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2A26968237B988F009E8DE1 /* Assets.xcassets */; };
 		F2A2696C237B988F009E8DE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2A2696B237B988F009E8DE1 /* Preview Assets.xcassets */; };
 		F2A2696F237B988F009E8DE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A2696D237B988F009E8DE1 /* LaunchScreen.storyboard */; };
+		F2E3FEDF237BA0B500FF4E37 /* AddActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FEDE237BA0B500FF4E37 /* AddActivity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2A2696B237B988F009E8DE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2A2696E237B988F009E8DE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2A26970237B988F009E8DE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2E3FEDE237BA0B500FF4E37 /* AddActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActivity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				F2A26962237B988E009E8DE1 /* AppDelegate.swift */,
 				F2A26964237B988E009E8DE1 /* SceneDelegate.swift */,
+				F2E3FEDE237BA0B500FF4E37 /* AddActivity.swift */,
 				F2A26966237B988E009E8DE1 /* ContentView.swift */,
 				F2A26968237B988F009E8DE1 /* Assets.xcassets */,
 				F2A2696D237B988F009E8DE1 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			files = (
 				F2A26963237B988E009E8DE1 /* AppDelegate.swift in Sources */,
 				F2A26965237B988E009E8DE1 /* SceneDelegate.swift in Sources */,
+				F2E3FEDF237BA0B500FF4E37 /* AddActivity.swift in Sources */,
 				F2A26967237B988E009E8DE1 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
